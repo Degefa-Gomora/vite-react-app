@@ -2,10 +2,14 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 
-//CSS
+// CSS
 import "bootstrap/dist/css/bootstrap.min.css";
-//Js
+// Js
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import "./assets/js/bootstrap.js"
+
+
+
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
