@@ -8,7 +8,6 @@ import SectionFour from "./Components/SectionFour/SectionFour.jsx";
 import SectionFive from "./Components/SectionFive/SectionFive.jsx";
 import SectionSix from "./Components/SectionSix/SectionSix.jsx";
 
-import "./assets/css/styles.css";
 
 
 function App() {

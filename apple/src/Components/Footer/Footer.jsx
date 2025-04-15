@@ -1,6 +1,8 @@
 import React from "react";
 import appleFlag from "../../assets/images/icons/16.png"; // Adjust the image path as needed
 import "./Footer.css"; // Import the CSS file for styling
+import "./custom.js";
+
 
 const Footer = () => {
   return (
